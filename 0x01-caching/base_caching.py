@@ -1,4 +1,3 @@
-$ cat base_caching.py
 #!/usr/bin/python3
 """ BaseCaching module
 """
